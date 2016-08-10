@@ -1,2 +1,4 @@
 *.wsg diff=wow
 *.wow-song diff=wow
+*.wlt diff=wow
+*.wow-liturgy diff=wow
