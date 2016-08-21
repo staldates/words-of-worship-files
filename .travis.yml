@@ -6,3 +6,6 @@ install:
   - pip install wowlint
 script:
   - wowlint *.wsg *.wow-song
+notifications:
+  email:
+    on_failure: change
