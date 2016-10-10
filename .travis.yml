@@ -2,6 +2,9 @@ sudo: false
 language: python
 python:
   - "2.7"
+addons:
+  apt_packages:
+    - enchant
 install:
   - pip install wowlint
 script:
