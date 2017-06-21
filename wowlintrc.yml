@@ -1,6 +1,3 @@
-HasNoCopyright:
-  exclude:
-    - "You Won't Relent.wsg"
 SpellCheck:
   exclude:
     - "Auld lang syne.wsg"
@@ -11,7 +8,6 @@ SpellCheck:
     - "Here I Am (Majesty) ENG & FRE.wsg"
     - "I'll Follow My Lord.wsg"
     - "Majesty ENG & FRE.wsg"
-    - "Nigeria Night 2.wsg"
     - "Over the mountains and the sea (Spanish).wsg"
     - "There is no rose.wow-song"
     - "Wagulu.wsg"
