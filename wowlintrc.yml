@@ -1,15 +1,17 @@
 SpellCheck:
   exclude:
     - "Auld lang syne.wsg"
-    - "Aye alulamile.wsg"
     - "Blessed is the King who Comes.wsg"
     - "Give Thanks To The Lord (Forever) ENG & FRE.wsg"
     - "God Is so Good.wsg"
     - "Here I Am (Majesty) ENG & FRE.wsg"
+    - "Here Is Love welsh v1.wsg"
     - "I'll Follow My Lord.wsg"
     - "Majesty ENG & FRE.wsg"
-    - "Over the mountains and the sea (Spanish).wsg"
     - "There is no rose.wow-song"
     - "Wagulu.wsg"
     - "We Are Marching in the Light of God.wsg"
     - "When I Survey The Wondrous Cross ENG & FRE.wsg"
+TrailingComma:
+  exclude:
+    - "SP Song.wsg"
