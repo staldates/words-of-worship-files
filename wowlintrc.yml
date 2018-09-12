@@ -13,7 +13,6 @@ SpellCheck:
     - "There is no rose.wow-song"
     - "We Are Marching in the Light of God.wsg"
     - "When I Survey The Wondrous Cross ENG & FRE.wsg"
-    - "Who is like thee (Micha mocha).wow-song"
 TrailingComma:
   exclude:
     - "SP Song.wsg"
